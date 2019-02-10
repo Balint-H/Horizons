@@ -1,2 +1,0 @@
-# Horizons
-Website templates
